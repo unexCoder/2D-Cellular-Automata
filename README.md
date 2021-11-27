@@ -37,11 +37,12 @@ for (int i = 0;i < NUM_ITERATIONS; i++) {
 
 ## Screenshots
 
-![--](screenshot/'Screen Shot 2020-06-25 at 15.21.38.png∑')
+![--](https://github.com/unexCoder/2D-Cellular-Automata/blob/main/screenshot/Screen%20Shot%202020-06-25%20at%2015.21.16.png)
 
-![--](screenshot/'Screen Shot 2020-06-25 at 15.23.16.png')
+![--](https://github.com/unexCoder/2D-Cellular-Automata/blob/main/screenshot/Screen%20Shot%202020-06-25%20at%2015.21.38.png)
 
-![--](screenshot/'Screen Shot 2020-06-25 at 15.21.16.png')
+![--](https://github.com/unexCoder/2D-Cellular-Automata/blob/main/screenshot/Screen%20Shot%202020-06-25%20at%2015.23.16.png)
+
 
 
 
