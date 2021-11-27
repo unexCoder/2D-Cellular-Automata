@@ -11,8 +11,9 @@ Return a two dimensional boolean standard vector according to input vector repre
 
 Example.
 
+```
 std::vector<std::vector<bool>> ca = {{0,0,0,0,0,0,0,0,0,0,0,0,0},
-                                                                                {0,0,0,0,0,0,0,0,0,0,0,0,0},
+ {0,0,0,0,0,0,0,0,0,0,0,0,0},
                                                                                 {0,0,0,0,0,0,0,0,0,0,0,0,0},
                                                                                 {0,0,0,0,0,0,0,0,0,0,0,0,0},
                                                                                 {0,0,0,0,0,0,0,0,0,0,0,0,0},
@@ -28,6 +29,7 @@ for (int i = 0;i < NUM_ITERATIONS; i++) {
     ca = cellAutom_2D(ca,code);
     autom.push_back(ca);
 }
+```
 
 ## About Cellular Automata
 
