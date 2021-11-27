@@ -37,11 +37,11 @@ for (int i = 0;i < NUM_ITERATIONS; i++) {
 
 ## Screenshots
 
-![--](screenshot/'Screen Shot 2020-06-25 at 15.21.38')
+![--](screenshot/'Screen Shot 2020-06-25 at 15.21.38.png∑')
 
-![--](screenshot/'Screen Shot 2020-06-25 at 15.23.16')
+![--](screenshot/'Screen Shot 2020-06-25 at 15.23.16.png')
 
-![--](screenshot/'Screen Shot 2020-06-25 at 15.21.16')
+![--](screenshot/'Screen Shot 2020-06-25 at 15.21.16.png')
 
 
 
