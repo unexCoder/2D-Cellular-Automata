@@ -1,6 +1,6 @@
 # 2D-Cellular-Automata
 
-## Simple C++ function to generate 2D Cellular Automata representation in one std::vector<std::vector<bool>>
+### Simple C++ function to generate 2D Cellular Automata representation in one std::vector<std::vector<bool>>
 
 ## Usage
 
@@ -38,9 +38,9 @@ for (int i = 0;i < NUM_ITERATIONS; i++) {
 
 ## About Cellular Automata
 
-<https://content.wolfram.com/uploads/sites/34/2020/07/two-dimensional-cellular-automata.pdf>
+[Two-Dimensional Cellular Automata](https://content.wolfram.com/uploads/sites/34/2020/07/two-dimensional-cellular-automata.pdf)
 
-<https://www.wolframscience.com/nks/notes-5-2--numbers-of-possible-2d-cellular-automaton-rules/>
+[A new kind of science - Cellular Automata](https://www.wolframscience.com/nks/notes-5-2--numbers-of-possible-2d-cellular-automaton-rules)
 
 ## Screenshots
 
