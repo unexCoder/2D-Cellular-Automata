@@ -4,9 +4,10 @@
 
 ## Usage
 
+````source.c++
 ### std::vector<std::vector<bool>> cellAutom_2D ( ... )
 std::vector<std::vector<bool>> cellAutom_2D (std::vector<std::vector<bool>> input, int ruleset )
-
+```
 Return a two dimensional boolean standard vector according to input vector representing CA first state and a 18 bit int encoded ruleset.
 
 Example.
