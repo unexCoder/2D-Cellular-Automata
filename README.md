@@ -8,9 +8,8 @@
 ```source.c++
 std::vector<std::vector<bool>> cellAutom_2D ( ... )
 ```
-```source.c++
-std::vector<std::vector<bool>> cellAutom_2D (std::vector<std::vector<bool>> input, int ruleset )
-```
+std::vector<std::vector<bool>> cellAutom_2D (std::vector<std::vector<bool>> input, int ruleset)
+
 Return a two dimensional boolean standard vector according to an input vector
 representing CA previous state and a 18 bit int encoded ruleset.
 
